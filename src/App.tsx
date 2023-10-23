@@ -1,7 +1,7 @@
 function App() {
 	return (
 		<>
-			<div>This is an economics calculator.</div>
+			<div className="text-blue-600">This is an economics calculator.</div>
 		</>
 	)
 }
